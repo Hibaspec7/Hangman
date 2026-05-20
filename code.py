@@ -1,7 +1,4 @@
-# Problem Set 1, hangman.py
-# Name:HIBA ABBAS,IBRAHIM ALTAF,ABU HURAIRA LIAQAT
-# Collaborators:40,30,30
-# Time spent:4 TO 5 HOURS
+
 
 # Hangman Game
 # -----------------------------------
